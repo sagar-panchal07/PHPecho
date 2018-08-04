@@ -6,6 +6,10 @@ For($i =1; $i<100;$i++){
         echo $i . $a;
     }
 }
+
+echo getCWD();
+
+//Going forward
 /* 
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
